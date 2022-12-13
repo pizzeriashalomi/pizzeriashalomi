@@ -4,4 +4,5 @@ Allow: /index.html
 Allow: /storia.html
 Allow: /ingredienti.html
 Allow: /contatti.html
+Allow: /sitemap.xml
 Sitemap: https://pizzeriashalomi.github.io/sitemap.xml

@@ -1,4 +1,7 @@
 User-agent: *
-Allow: /
-
+Disallow: /
+Allow: /index.html
+Allow: /storia.html
+Allow: /ingredienti.html
+Allow: /contatti.html
 Sitemap: https://pizzeriashalomi.github.io/sitemap.xml
